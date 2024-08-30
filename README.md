@@ -1,2 +1,2 @@
-# File-Converter
+# FileConverter
 A extension converter for Gnome.
